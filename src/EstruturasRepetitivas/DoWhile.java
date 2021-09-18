@@ -5,20 +5,23 @@
  */
 package EstruturasRepetitivas;
 
+import java.io.PrintStream;
 import java.util.Locale;
 import java.util.Scanner;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  *
  * @author Guilherme
  */
 public class DoWhile {
-    
+
     public static void main(String[] args) {
-        
+
         Locale.setDefault(Locale.US);
         Scanner scr = new Scanner(System.in);
-        
+
         char resp;
         
         do {
