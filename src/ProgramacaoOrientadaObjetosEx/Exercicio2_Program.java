@@ -3,10 +3,6 @@ package ProgramacaoOrientadaObjetosEx;
 import java.util.Locale;
 import java.util.Scanner;
 
-/**
- *
- * @author Guilherme
- */
 public class Exercicio2_Program {
     
     public static void main(String[] args) {
