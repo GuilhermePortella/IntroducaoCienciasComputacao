@@ -1,9 +1,5 @@
 package ProgramacaoOrientadaObjetosEx;
 
-/**
- *
- * @author Guilherme
- */
 public class Exercicio1_Rectangle {
     
     public double width, height;
