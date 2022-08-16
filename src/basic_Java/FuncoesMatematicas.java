@@ -1,9 +1,5 @@
 package basic_Java;
 
-/**
- *
- * @author Guilherme
- */
 public class FuncoesMatematicas {
     
     public static void main(String[] args) {
