@@ -7,10 +7,6 @@ package basic_Java;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Guilherme
- */
 public class SomaSimplesConsole {
     
     public static void main(String[] args) {
