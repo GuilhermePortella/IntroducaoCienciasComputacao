@@ -3,10 +3,6 @@ package basic_Java;
 import java.util.Locale;
 import java.util.Scanner;
 
-/**
- *
- * @author Guilherme
- */
 public class Exercicio2EsSequencial {
 
     public static void main(String[] args) {
