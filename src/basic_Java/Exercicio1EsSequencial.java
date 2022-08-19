@@ -2,10 +2,6 @@ package basic_Java;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Guilherme
- */
 public class Exercicio1EsSequencial {
 
     public static void main(String[] args) {
