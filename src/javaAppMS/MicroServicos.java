@@ -1,14 +1,6 @@
 package javaAppMS;
 
-/**
- *
- * @author Guilherme
- */
 public class MicroServicos {
-    /**
-     * @param args the command line arguments
-     */
-    
     String [] v = new String[60];
     
     
