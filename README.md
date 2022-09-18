@@ -22,4 +22,7 @@ ajudar quem esta começando na area ou ja esta no universidade :wink:
 
 <br>
 
-## Lorem ipsum dolor sit amet
+## Curso de Ciência da Computação
+
+- [CS50 PT-BR](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard)
+- [CS50 EN-US](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
