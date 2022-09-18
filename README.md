@@ -26,3 +26,9 @@ ajudar quem esta começando na area ou ja esta no universidade :wink:
 
 - [CS50 PT-BR](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard)
 - [CS50 EN-US](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+
+
+## Melhores livros para o Estudo de programação e Ciência da Computação
+- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+- [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
+- [computer networks - Tenenbaum](https://www.oreilly.com/library/view/computer-networks-fifth/9780133485936/)
