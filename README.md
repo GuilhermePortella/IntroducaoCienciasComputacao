@@ -12,7 +12,6 @@ ajudar quem esta começando na area ou ja esta no universidade :wink:
 </br></br></br></br></br>
 
 
-</br></br>
 
 
 <img align="right" width="190" height="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/JohnvonNeumann-LosAlamos.jpg/800px-JohnvonNeumann-LosAlamos.jpg">
@@ -31,6 +30,6 @@ ajudar quem esta começando na area ou ja esta no universidade :wink:
 ## Melhores livros para o Estudo de programação e Ciência da Computação
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 - [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
-- [computer networks - Tenenbaum](https://www.oreilly.com/library/view/computer-networks-fifth/9780133485936/)
+- [Computer Networks - Tenenbaum](https://www.oreilly.com/library/view/computer-networks-fifth/9780133485936/)
 - [Introduction to Algorithms by Thomas H. Cormen](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 - [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
