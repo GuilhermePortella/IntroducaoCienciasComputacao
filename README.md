@@ -7,16 +7,16 @@
 ajudar quem esta começando na area ou ja esta no universidade :wink:
 
 
-<img align="left"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/200px-Alan_Turing_Aged_16.jpg"> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/200px-Alan_Turing_Aged_16.jpg"> Ciência da computação , o estudo decomputadores e computação, incluindo seus fundamentos teóricos e algorítmicos, hardware e software , e seus usos para processamento de informações. A disciplina de ciência da computação inclui o estudo de algoritmos e estruturas de dados, design de computadores e redes, modelagem de dados e processos de informação e inteligência artificial . A ciência da computação extrai alguns de seus fundamentos da matemática e da engenharia e, portanto, incorpora técnicas de áreas como teoria de filas, probabilidade e estatística e eletrônica .projeto de circuito. A ciência da computação também faz uso intenso de testes de hipóteses e experimentação durante a conceituação, projeto, medição e refinamento de novos algoritmos, estruturas de informação e arquiteturas de computador.
 
-</br></br></br></br></br>
+</br></br>
 
 
 
 
 <img align="right" width="190" height="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/JohnvonNeumann-LosAlamos.jpg/800px-JohnvonNeumann-LosAlamos.jpg">
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+A ciência da computação é considerada como parte de uma família de cinco disciplinas separadas, mas inter-relacionadas: engenharia da computação, ciência da computação, sistemas de informação, tecnologia da informação e engenharia de software. Essa família passou a ser conhecida coletivamente como a disciplina da computação. Essas cinco disciplinas estão inter-relacionadas no sentido de que a computação é seu objeto de estudo, mas são separadas, pois cada uma tem sua própria perspectiva de pesquisa e foco curricular. (Desde 1991, a Association for Computing Machinery [ACM], a IEEE Computer Society [IEEE-CS] e a Association for Information Systems [AIS] têm colaborado para desenvolver e atualizar a taxonomiadessas cinco disciplinas inter-relacionadas e as diretrizes que as instituições educacionais em todo o mundo usam para seus programas de graduação, pós-graduação e pesquisa.)
 </br></br></br></br></br>
 
 <br>
