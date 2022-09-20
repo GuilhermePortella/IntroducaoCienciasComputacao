@@ -33,3 +33,7 @@ ajudar quem esta começando na area ou ja esta no universidade :wink:
 - [Computer Networks - Tenenbaum](https://www.oreilly.com/library/view/computer-networks-fifth/9780133485936/)
 - [Introduction to Algorithms by Thomas H. Cormen](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 - [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+- [Compilers: Principles, Techniques, and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)
+- [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/)
+- [Java: How To Program, Early Objects](https://www.pearson.com/store/p/java-how-to-program-early-objects/P200000003250/9780137598540)
+- [Computer Organization and Architecture](http://williamstallings.com/COA/)
