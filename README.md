@@ -7,7 +7,7 @@
 ajudar quem esta começando na area ou ja esta no universidade :wink:
 
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/200px-Alan_Turing_Aged_16.jpg">
+<img align="left" src="https://github.com/GuilhermePortella/IntroducaoCienciasComputacao/blob/main/src/assets/Alan_Turing.jpg">
 
 ### O que é ciência da computação?
 
@@ -19,7 +19,7 @@ A ciência da computação é considerada como parte de uma família de cinco di
 
 
 
-<img align="right" width="190" height="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/JohnvonNeumann-LosAlamos.jpg/800px-JohnvonNeumann-LosAlamos.jpg">
+<img align="right" width="190" height="250" src="https://github.com/GuilhermePortella/IntroducaoCienciasComputacao/blob/main/src/assets/John_Von_Neumann.jpg">
 
 ### Desenvolvimento da informática
 
@@ -27,6 +27,12 @@ A ciência da computação surgiu como uma disciplina independente no início da
 </br></br></br></br></br>
 
 <br>
+<p align="center">
+<img width="500" height="400" src="https://github.com/GuilhermePortella/IntroducaoCienciasComputacao/blob/main/src/assets/Xerox_Alto_1973.jpg">
+</p>
+
+Intimamente relacionado a este campo está o projeto e análise de sistemas que interagem diretamente com usuários que estão realizando diversas tarefas computacionais. Esses sistemas passaram a ser amplamente utilizados durante as décadas de 1980 e 1990, quando as interações editadas por linha com os usuários foram substituídas porinterfaces gráficas de usuário (GUIs). O design de GUI, que foi iniciado pela Xerox e mais tarde adotado pela Apple (Macintosh) e finalmente pela Microsoft ( Windows ), é importante porque constitui o que as pessoas veem e fazem quando interagem com um dispositivo de computação. O design de interfaces de usuário apropriadas para todos os tipos de usuários evoluiu para o campo da ciência da computação conhecido como interação humano-computador (HCI).
+
 
 ## Curso de Ciência da Computação
 
