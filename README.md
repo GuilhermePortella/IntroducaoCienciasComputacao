@@ -54,3 +54,12 @@ Intimamente relacionado a este campo está o projeto e análise de sistemas que 
 - [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
 - [Engineering a Compiler](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0)
 - [Machine Learning Pocket Reference: Working with Structured Data in Python](https://www.oreilly.com/library/view/machine-learning-pocket/9781492047537/)
+
+
+## Curso de Segurança
+
+## Curso de Redes
+
+## Curso de Hacker
+
+## Projetos em Arduino
