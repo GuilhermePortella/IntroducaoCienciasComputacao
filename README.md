@@ -50,3 +50,7 @@ Intimamente relacionado a este campo está o projeto e análise de sistemas que 
 - [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/)
 - [Java: How To Program, Early Objects](https://www.pearson.com/store/p/java-how-to-program-early-objects/P200000003250/9780137598540)
 - [Computer Organization and Architecture](http://williamstallings.com/COA/)
+- [Algorithms to Live By: The Computer Science of Human Decisions](https://algorithmstoliveby.com/)
+- [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
+- [Engineering a Compiler]()
+- []()
