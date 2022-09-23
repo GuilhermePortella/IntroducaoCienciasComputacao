@@ -62,4 +62,6 @@ Intimamente relacionado a este campo está o projeto e análise de sistemas que 
 
 ## Curso de Hacker
 
+- https://github.com/EONRaider/blackhat-python3
+
 ## Projetos em Arduino
