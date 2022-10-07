@@ -38,14 +38,20 @@ Intimamente relacionado a este campo está o projeto e análise de sistemas que 
 
 
 O campo da arquitetura e organização de computadores também evoluiu dramaticamente desde que os primeiros computadores com programas armazenados foram desenvolvidos na década de 1950. Os chamados sistemas de compartilhamento de tempo surgiram na década de 1960 para permitir que vários usuários executassem programas ao mesmo tempo a partir de diferentes terminais conectados ao computador. A década de 1970 viu o desenvolvimento da primeira grande árearedes de computadores (WANs ) e protocolos para transferência de informações em alta velocidade entre computadores separados por grandes distâncias. À medida que essas atividades evoluíram, elas se fundiram no campo da ciência da computação chamado redes e comunicações. Uma grande conquista deste campo foi o desenvolvimento doInternet.
+<br>
 
--
 A ideia de que instruções, assim como dados, poderiam ser armazenados na memória de um computador foi fundamental para descobertas fundamentais sobre o comportamento teórico dealgoritmos . Ou seja, perguntas como: “O que pode/não pode ser computado?” foram formalmente abordados usando essas idéias abstratas. Essas descobertas foram a origem do campo da ciência da computação conhecido como algoritmos e complexidade.
--
+
+<br>
+
 Uma parte fundamental deste campo é o estudo e aplicação de estruturas de dados apropriadas para diferentes aplicações.As estruturas de dados , juntamente com o desenvolvimento de algoritmos ideais para inserir, excluir e localizar dados em tais estruturas, são uma grande preocupação dos cientistas da computação porque são muito usadas em software de computador, principalmente em compiladores, sistemas operacionais, sistemas de arquivos, e motores de busca .
--
+
+<br>
+
 Na década de 1960, a invenção doo armazenamento em disco magnético forneceu acesso rápido a dados localizados em um local arbitrário no disco. Esta invenção levou não apenas a sistemas de arquivos projetados de forma mais inteligente, mas também ao desenvolvimento de sistemas de banco de dados e de recuperação de informações, que mais tarde se tornaram essenciais para armazenar, recuperar e transmitir grandes quantidades e amplas variedades de dados pela Internet. Este campo da ciência da computação é conhecido como gestão da informação.
--
+
+<br>
+
 Outro objetivo de longo prazo da pesquisa em ciência da computação é a criação de máquinas de computação e dispositivos robóticos que possam realizar tarefas que normalmente são consideradas como exigindo inteligência humana . Tais tarefas incluem mover, ver, ouvir, falar, entender a linguagem natural, pensar e até mesmo exibir emoções humanas . O campo da ciência da computação de sistemas inteligentes, originalmente conhecido comointeligência artificial (IA), na verdade antecede os primeiros computadores eletrônicos na década de 1940, embora o termo inteligência artificial não tenha sido cunhado até 1956.
 
 
@@ -79,8 +85,8 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 - https://github.com/EONRaider/blackhat-python3
 
-## Projetos em Arduino
-## Projetos em Arduino
+## Programação orientada a objetos
+## Ruby on Rails
 ## Projetos em Arduino
 ## Projetos em Arduino
 ## Projetos em Arduino
