@@ -89,6 +89,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 ## Ruby on Rails
 
  - [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
+ - [Rails Routing from the Outside In](https://guides.rubyonrails.org/routing.html)
 
 
 ## Projetos em Arduino
