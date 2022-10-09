@@ -83,7 +83,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 ## Curso de Hacker
 
-- https://github.com/EONRaider/blackhat-python3
+- [Python 3 "Black Hat Python" Source Code](https://github.com/EONRaider/blackhat-python3)
 
 ## Programação orientada a objetos
 ## Ruby on Rails
