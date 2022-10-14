@@ -85,6 +85,9 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 - [Python 3 "Black Hat Python" Source Code](https://github.com/EONRaider/blackhat-python3)
 
 ## Programação orientada a objetos
+
+-[Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf)
+
 ## Ruby on Rails
 
  - [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
