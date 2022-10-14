@@ -94,4 +94,5 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 ## Cybersecurity
 ## Projetos em Arduino
-## Projetos em Arduino
+## Princípios por trás do Manifesto Ágil
+ -[Manifesto para Desenvolvimento Ágil de Software](https://agilemanifesto.org/iso/ptbr/principles.html)
