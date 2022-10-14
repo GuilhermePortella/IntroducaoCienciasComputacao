@@ -96,6 +96,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 ## Projetos em Arduino
 ## Princípios por trás do Manifesto Ágil
  - [Manifesto para Desenvolvimento Ágil de Software](https://agilemanifesto.org/iso/ptbr/principles.html)
+ - [Esqueça Metodologias "Ágeis" | [Rated R] por Fabio Akita do canal @FabioAkita no youtube](https://www.youtube.com/watch?v=xjjX3R2WuoM&t=1921s&ab_channel=FabioAkita)
 
 ## System 360 IBM
  - [System 360 da IBM](https://www.ibm.com/ibm/history/ibm100/us/en/icons/system360/)
