@@ -80,6 +80,8 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 ## Curso de Redes
 
+-[Introdução a Redes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7)
+
 ## Curso de Hacker
 
 - [Python 3 "Black Hat Python" Source Code](https://github.com/EONRaider/blackhat-python3)
