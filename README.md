@@ -80,7 +80,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 ## Curso de Redes
 
--[Introdução a Redes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7)
+- [Introdução a Redes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7)
 
 ## Curso de Hacker
 
