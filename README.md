@@ -115,3 +115,15 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
  - [Prometheus Grafana](https://prometheus.io/docs/visualization/grafana/)
  - [Prometheus - application for event monitoring and alerting](https://prometheus.io/)
 
+## Linux (Iniciante ~ Avançado)
+ - [Linux Mint 21](https://linuxmint.com/)
+ - [Ubuntu 22.04.1 LTS](https://ubuntu.com/download)
+ - [Manjaro](https://manjaro.org/download/)
+ - [Debian](https://www.debian.org/download)
+ - [Arch Linux](https://archlinux.org/download/)
+ - [Slackware](https://download.liveslak.org/)
+ - [Kali Linux](https://www.kali.org/docs/introduction/download-official-kali-linux-images/)
+ - [Gentoo Linux](https://www.gentoo.org/downloads/)
+ - [BlackArch Linux](https://blackarch.org/)
+
+
