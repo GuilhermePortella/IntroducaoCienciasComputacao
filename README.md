@@ -116,8 +116,8 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
  - [Prometheus - application for event monitoring and alerting](https://prometheus.io/)
 
 ## Linux (Iniciante ~ Avançado)
- - [Linux Mint 21](https://linuxmint.com/)
- - [Ubuntu 22.04.1 LTS](https://ubuntu.com/download)
+ - [Linux Mint](https://linuxmint.com/)
+ - [Ubuntu](https://ubuntu.com/download)
  - [Manjaro](https://manjaro.org/download/)
  - [Debian](https://www.debian.org/download)
  - [Arch Linux](https://archlinux.org/download/)
