@@ -109,3 +109,21 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 ## System 360 IBM
  - [System 360 da IBM](https://www.ibm.com/ibm/history/ibm100/us/en/icons/system360/)
+
+
+## Ferramentas Interessantes
+ - [Prometheus Grafana](https://prometheus.io/docs/visualization/grafana/)
+ - [Prometheus - application for event monitoring and alerting](https://prometheus.io/)
+
+## Linux (Iniciante ~ Avançado)
+ - [Linux Mint](https://linuxmint.com/)
+ - [Ubuntu](https://ubuntu.com/download)
+ - [Manjaro](https://manjaro.org/download/)
+ - [Debian](https://www.debian.org/download)
+ - [Arch Linux](https://archlinux.org/download/)
+ - [Slackware](https://download.liveslak.org/)
+ - [Kali Linux](https://www.kali.org/docs/introduction/download-official-kali-linux-images/)
+ - [Gentoo Linux](https://www.gentoo.org/downloads/)
+ - [BlackArch Linux](https://blackarch.org/)
+
+
