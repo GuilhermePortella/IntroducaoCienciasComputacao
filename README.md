@@ -126,4 +126,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
  - [Gentoo Linux](https://www.gentoo.org/downloads/)
  - [BlackArch Linux](https://blackarch.org/)
 
+## GIT
+ -[Git Stash](https://medium.com/wooza/git-stash-conhecendo-e-utilizando-um-dos-comandos-mais-pr%C3%A1ticos-para-o-versionamento-de-seu-c%C3%B3digo-a4dab3ac70da)
+
 
