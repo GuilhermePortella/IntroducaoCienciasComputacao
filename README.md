@@ -127,6 +127,10 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
  - [BlackArch Linux](https://blackarch.org/)
 
 ## GIT
- -[Git Stash](https://medium.com/wooza/git-stash-conhecendo-e-utilizando-um-dos-comandos-mais-pr%C3%A1ticos-para-o-versionamento-de-seu-c%C3%B3digo-a4dab3ac70da)
+ - [Git Stash](https://medium.com/wooza/git-stash-conhecendo-e-utilizando-um-dos-comandos-mais-pr%C3%A1ticos-para-o-versionamento-de-seu-c%C3%B3digo-a4dab3ac70da)
+ - [Entendendo GIT | (não é um tutorial!) - Video](https://www.youtube.com/watch?v=6Czd1Yetaac&ab_channel=FabioAkita)
+ - [Usando Git Direito | Limpando seus Commits! - Video](https://www.youtube.com/watch?v=6OokP-NE49k&t=4s&ab_channel=FabioAkita)
+ - [13 Advanced (but useful) Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o&ab_channel=Fireship)
+ - [Advanced Git](https://www.youtube.com/playlist?list=PLWkguCWKqN9N9mvHWFAXqSMStslkILiP0)
 
 
