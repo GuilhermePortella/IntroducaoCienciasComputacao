@@ -98,6 +98,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 ## Cybersecurity
 
+ - [Pentest](https://xtech.com.br/pentest-ou-teste-de-penetracao-o-que-e/)
 
 
 ## Projetos em Arduino
