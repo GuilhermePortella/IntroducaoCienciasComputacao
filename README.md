@@ -102,6 +102,8 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 
 ## Projetos em Arduino
+ [Robô Autônomo Básico](https://blog.arduinoomega.com/robo-autonomo-basico-com-sensor-ultrassonico-hc-sr04/)
+
 
 
 ## Princípios por trás do Manifesto Ágil
