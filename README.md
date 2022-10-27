@@ -135,5 +135,5 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
  - [Usando Git Direito | Limpando seus Commits! - Video](https://www.youtube.com/watch?v=6OokP-NE49k&t=4s&ab_channel=FabioAkita)
  - [13 Advanced (but useful) Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o&ab_channel=Fireship)
  - [Advanced Git](https://www.youtube.com/playlist?list=PLWkguCWKqN9N9mvHWFAXqSMStslkILiP0)
-
+ - [git-rebase](https://git-scm.com/docs/git-rebase)
 
