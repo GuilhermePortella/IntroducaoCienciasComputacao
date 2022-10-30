@@ -78,6 +78,8 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 ## Curso de Segurança
 
+- [Cybersecurity by IBM](https://www.ibm.com/skills/topics/cybersecurity/#:~:text=IBM%20has%20leveraged%20its%20artificial,with%20the%20cybersecurity%20training%20below.)
+
 ## Curso de Redes
 
 - [Introdução a Redes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7)
