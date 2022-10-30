@@ -76,10 +76,6 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 - [Machine Learning Pocket Reference: Working with Structured Data in Python](https://www.oreilly.com/library/view/machine-learning-pocket/9781492047537/)
 
 
-## Curso de Segurança
-
-- [Cybersecurity by IBM](https://www.ibm.com/skills/topics/cybersecurity/#:~:text=IBM%20has%20leveraged%20its%20artificial,with%20the%20cybersecurity%20training%20below.)
-
 ## Curso de Redes
 
 - [Introdução a Redes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7)
@@ -101,6 +97,8 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 ## Cybersecurity
 
  - [Pentest](https://xtech.com.br/pentest-ou-teste-de-penetracao-o-que-e/)
+ - [Cybersecurity by IBM](https://www.ibm.com/skills/topics/cybersecurity/#:~:text=IBM%20has%20leveraged%20its%20artificial,with%20the%20cybersecurity%20training%20below.)
+
 
 
 ## Projetos em Arduino
