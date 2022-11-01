@@ -137,3 +137,6 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
  - [Advanced Git](https://www.youtube.com/playlist?list=PLWkguCWKqN9N9mvHWFAXqSMStslkILiP0)
  - [git-rebase](https://git-scm.com/docs/git-rebase)
 
+## Clean code e boas praticas 
+
+- [Clean code: quais são as boas práticas de programação?](https://www.sydle.com/br/blog/clean-code-602bef23da4d09680935509b/)
