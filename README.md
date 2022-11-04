@@ -60,6 +60,11 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 - [CS50 EN-US](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
 
+## O Minimo que voçê precisa saber
+
+ - []
+
+
 ## Melhores livros para o Estudo de programação e Ciência da Computação
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 - [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
