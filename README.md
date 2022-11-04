@@ -62,7 +62,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 ## O Minimo que voçê precisa saber
 
- - []
+ - [GIT](https://github.com/GuilhermePortella/IntroducaoCienciasComputacao/blob/main/README.md#git)
 
 
 ## Melhores livros para o Estudo de programação e Ciência da Computação
