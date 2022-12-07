@@ -93,6 +93,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 - [Python 3 "Black Hat Python" Source Code](https://github.com/EONRaider/blackhat-python3)
 - [MBConf v1 - Introdução ao hardware hacking](https://www.youtube.com/watch?v=hoPWsOiHkvE&t=1176s&ab_channel=PapoBin%C3%A1rio)
+  - [playlist MBConf](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5FbTIZFuExvqd5acv-VYBs)
 
 
 ## Cybersecurity
