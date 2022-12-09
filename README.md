@@ -92,6 +92,17 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 ## Curso de Hacker
 
 - [Python 3 "Black Hat Python" Source Code](https://github.com/EONRaider/blackhat-python3)
+- [MBConf v1 - Introdução ao hardware hacking](https://www.youtube.com/watch?v=hoPWsOiHkvE&t=1176s&ab_channel=PapoBin%C3%A1rio)
+  - [playlist MBConf](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5FbTIZFuExvqd5acv-VYBs)
+
+
+## Cybersecurity
+
+ - [Pentest](https://xtech.com.br/pentest-ou-teste-de-penetracao-o-que-e/)
+ - [Cybersecurity by IBM](https://www.ibm.com/skills/topics/cybersecurity/#:~:text=IBM%20has%20leveraged%20its%20artificial,with%20the%20cybersecurity%20training%20below.)
+- [What is cybersecurity? ](https://www.ibm.com/topics/cybersecurity)
+
+
 
 ## Programação orientada a objetos
 
@@ -101,14 +112,6 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
  - [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
  - [Rails Routing from the Outside In](https://guides.rubyonrails.org/routing.html)
-
-
-## Cybersecurity
-
- - [Pentest](https://xtech.com.br/pentest-ou-teste-de-penetracao-o-que-e/)
- - [Cybersecurity by IBM](https://www.ibm.com/skills/topics/cybersecurity/#:~:text=IBM%20has%20leveraged%20its%20artificial,with%20the%20cybersecurity%20training%20below.)
-- [What is cybersecurity? ](https://www.ibm.com/topics/cybersecurity)
-
 
 ## Projetos em Arduino
  - [Robô Autônomo Básico](https://blog.arduinoomega.com/robo-autonomo-basico-com-sensor-ultrassonico-hc-sr04/)
