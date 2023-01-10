@@ -102,6 +102,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
  - [Cybersecurity by IBM](https://www.ibm.com/skills/topics/cybersecurity/#:~:text=IBM%20has%20leveraged%20its%20artificial,with%20the%20cybersecurity%20training%20below.)
 - [What is cybersecurity? ](https://www.ibm.com/topics/cybersecurity)
 - [How to create a computer virus in Python](https://thepythoncorner.com/posts/2021-08-30-how-to-create-virus-python/)
+- [Make a Self-Replicating Virus in Python | For Education Purposes Only](https://infosecwriteups.com/make-a-self-replicating-virus-in-python-bb29404e3f6b)
 
 - You can install yara-python by running: 
  ~~~ 
