@@ -103,6 +103,8 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 - [What is cybersecurity? ](https://www.ibm.com/topics/cybersecurity)
 - [How to create a computer virus in Python](https://thepythoncorner.com/posts/2021-08-30-how-to-create-virus-python/)
 - [Make a Self-Replicating Virus in Python | For Education Purposes Only](https://infosecwriteups.com/make-a-self-replicating-virus-in-python-bb29404e3f6b)
+- [Python bcrypt](https://zetcode.com/python/bcrypt/)
+- [How to boot, shut down, and suspend your system](https://www.redhat.com/sysadmin/linux-boot-shutdown-systemd)
 
 - You can install yara-python by running: 
  ~~~ 
