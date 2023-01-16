@@ -23,3 +23,10 @@ public class EncapsulationExample {
         this.name = name;
     }
 }
+
+EncapsulationExample obj = new EncapsulationExample();
+obj.setId(123);
+obj.setName("John Doe");
+
+int id = obj.getId();
+String name = obj.getName();
