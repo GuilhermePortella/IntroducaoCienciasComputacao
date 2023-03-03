@@ -54,10 +54,16 @@ Na década de 1960, a invenção doo armazenamento em disco magnético forneceu 
 Outro objetivo de longo prazo da pesquisa em ciência da computação é a criação de máquinas de computação e dispositivos robóticos que possam realizar tarefas que normalmente são consideradas como exigindo inteligência humana . Tais tarefas incluem mover, ver, ouvir, falar, entender a linguagem natural, pensar e até mesmo exibir emoções humanas . O campo da ciência da computação de sistemas inteligentes, originalmente conhecido comointeligência artificial (IA), na verdade antecede os primeiros computadores eletrônicos na década de 1940, embora o termo inteligência artificial não tenha sido cunhado até 1956.
 
 
-## Curso de Ciência da Computação
+## Curso gratuitos de Ciência da Computação
 
-- [CS50 PT-BR](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard)
-- [CS50 EN-US](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [CS50 PT-BR - Harvard University](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard)
+- [CS50 EN-US - Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [Computer Science 101 - Stanford School of Engineering](https://online.stanford.edu/courses/soe-ycscs101-computer-science-101)
+- [Introduction to Internet of Things - Stanford](https://online.stanford.edu/courses/xee100-introduction-internet-things)
+- [Databases: Relational Databases and SQL - Stanford](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)
+- [Cryptography I - Stanford](https://online.stanford.edu/courses/soe-y0001-cryptography-i)
+- [Introduction to Statistics - Stanford](https://online.stanford.edu/courses/xfds110-introduction-statistics)
+- [Machine Learning Specialization - Stanford](https://online.stanford.edu/courses/soe-ymls-machine-learning-specialization)
 
 
 ## O Minimo que voçê precisa saber
