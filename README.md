@@ -73,7 +73,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
    - Linux - Windows e Mac
  - HTML, CSS e JavaScript
  - Algoritmos Basicos
- - POO
+ - [POO](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP)
 
 ## Melhores livros para o Estudo de programação e Ciência da Computação
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
@@ -111,6 +111,8 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 - [Make a Self-Replicating Virus in Python | For Education Purposes Only](https://infosecwriteups.com/make-a-self-replicating-virus-in-python-bb29404e3f6b)
 - [Python bcrypt](https://zetcode.com/python/bcrypt/)
 - [How to boot, shut down, and suspend your system](https://www.redhat.com/sysadmin/linux-boot-shutdown-systemd)
+
+<br>
 
 - You can install yara-python by running: 
  ~~~ 
