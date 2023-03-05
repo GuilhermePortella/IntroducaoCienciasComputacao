@@ -112,6 +112,8 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 - [Python bcrypt](https://zetcode.com/python/bcrypt/)
 - [How to boot, shut down, and suspend your system](https://www.redhat.com/sysadmin/linux-boot-shutdown-systemd)
 
+<br>
+
 - You can install yara-python by running: 
  ~~~ 
   pip install yara-python  
