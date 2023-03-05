@@ -73,7 +73,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
    - Linux - Windows e Mac
  - HTML, CSS e JavaScript
  - Algoritmos Basicos
- - POO
+ - [POO](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP)
 
 ## Melhores livros para o Estudo de programação e Ciência da Computação
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
