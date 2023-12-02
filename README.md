@@ -3,8 +3,7 @@
 # Introducao ao curso Ciencias da Computação
 
 
- Nesse repositorio irei detalhar alguns temas e materias que estudei no curso de ciencias da computação, uma forma de 
-ajudar quem esta começando na area ou ja esta no universidade :wink:
+ Nesse repositorio irei detalhar alguns temas e materias que estudei no curso de ciencias da computação, que graças a Deus hoje ja me formei, afim de te ajudar com temas complexos e considerados difíceis desde a basa de tudo como matemática e cálculos a algoritmos e estrutura de dados em teoria, conseitos de Segurança da Informação e hacking :wink:
 
 
 <img align="left" src="src\assets\Alan_Turing.jpg">
