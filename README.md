@@ -137,6 +137,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 ## Programação orientada a objetos
 
 - [Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf)
+- [Linguagem C]()
 
 ## Ruby on Rails
 
