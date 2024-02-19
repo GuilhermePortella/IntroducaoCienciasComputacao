@@ -56,6 +56,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 - [CS50 PT-BR - Harvard University](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard)
 - [CS50 EN-US - Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [CS50's Introduction to Computer Science - 2024](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 - [Computer Science 101 - Stanford School of Engineering](https://online.stanford.edu/courses/soe-ycscs101-computer-science-101)
 - [Introduction to Internet of Things - Stanford](https://online.stanford.edu/courses/xee100-introduction-internet-things)
 - [Databases: Relational Databases and SQL - Stanford](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)
