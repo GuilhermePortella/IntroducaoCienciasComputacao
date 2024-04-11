@@ -2,10 +2,7 @@
 
 # Introducao ao curso Ciencias da Computação
 
-
- Nesse repositorio irei detalhar alguns temas e materias que estudei no curso de ciencias da computação, uma forma de 
-ajudar quem esta começando na area ou ja esta no universidade :wink:
-
+Nesse repositório irei detalhar alguns temas e matérias que estudei no curso de ciências da computação, que graças a Deus hoje já me formei, afim de te ajudar com temas complexos e considerados difíceis desde a base de tudo como matemática e cálculos a algoritmos e estrutura de dados em teoria, linguagens formais e autômatos, conceitos de Segurança da Informação e hacking :wink:
 
 <img align="left" src="src\assets\Alan_Turing.jpg">
 
@@ -98,14 +95,8 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 - [Introdução a Redes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7)
 
-## Curso de Hacker
 
-- [Python 3 "Black Hat Python" Source Code](https://github.com/EONRaider/blackhat-python3)
-- [MBConf v1 - Introdução ao hardware hacking](https://www.youtube.com/watch?v=hoPWsOiHkvE&t=1176s&ab_channel=PapoBin%C3%A1rio)
-  - [playlist MBConf](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5FbTIZFuExvqd5acv-VYBs)
-
-
-## Cybersecurity
+## Cybersecurity/Hacker
 
  - [Pentest](https://xtech.com.br/pentest-ou-teste-de-penetracao-o-que-e/)
  - [Cybersecurity by IBM](https://www.ibm.com/skills/topics/cybersecurity/#:~:text=IBM%20has%20leveraged%20its%20artificial,with%20the%20cybersecurity%20training%20below.)
@@ -114,6 +105,10 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 - [Make a Self-Replicating Virus in Python | For Education Purposes Only](https://infosecwriteups.com/make-a-self-replicating-virus-in-python-bb29404e3f6b)
 - [Python bcrypt](https://zetcode.com/python/bcrypt/)
 - [How to boot, shut down, and suspend your system](https://www.redhat.com/sysadmin/linux-boot-shutdown-systemd)
+
+- [Python 3 "Black Hat Python" Source Code](https://github.com/EONRaider/blackhat-python3)
+- [MBConf v1 - Introdução ao hardware hacking](https://www.youtube.com/watch?v=hoPWsOiHkvE&t=1176s&ab_channel=PapoBin%C3%A1rio)
+  - [playlist MBConf](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5FbTIZFuExvqd5acv-VYBs)
 
 <br>
 
