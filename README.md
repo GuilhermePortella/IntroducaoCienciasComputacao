@@ -98,14 +98,13 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 ## Cybersecurity/Hacker
 
- - [Pentest](https://xtech.com.br/pentest-ou-teste-de-penetracao-o-que-e/)
- - [Cybersecurity by IBM](https://www.ibm.com/skills/topics/cybersecurity/#:~:text=IBM%20has%20leveraged%20its%20artificial,with%20the%20cybersecurity%20training%20below.)
+- [Pentest](https://xtech.com.br/pentest-ou-teste-de-penetracao-o-que-e/)
+- [Cybersecurity by IBM](https://www.ibm.com/skills/topics/cybersecurity/#:~:text=IBM%20has%20leveraged%20its%20artificial,with%20the%20cybersecurity%20training%20below.)
 - [What is cybersecurity? ](https://www.ibm.com/topics/cybersecurity)
 - [How to create a computer virus in Python](https://thepythoncorner.com/posts/2021-08-30-how-to-create-virus-python/)
 - [Make a Self-Replicating Virus in Python | For Education Purposes Only](https://infosecwriteups.com/make-a-self-replicating-virus-in-python-bb29404e3f6b)
 - [Python bcrypt](https://zetcode.com/python/bcrypt/)
 - [How to boot, shut down, and suspend your system](https://www.redhat.com/sysadmin/linux-boot-shutdown-systemd)
-
 - [Python 3 "Black Hat Python" Source Code](https://github.com/EONRaider/blackhat-python3)
 - [MBConf v1 - Introdução ao hardware hacking](https://www.youtube.com/watch?v=hoPWsOiHkvE&t=1176s&ab_channel=PapoBin%C3%A1rio)
   - [playlist MBConf](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5FbTIZFuExvqd5acv-VYBs)
