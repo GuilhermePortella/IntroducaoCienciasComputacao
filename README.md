@@ -131,18 +131,19 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
   pip install r2pipe   
  ~~~
 
+## Linguagens de programação 
 
-## Programação orientada a objetos
+ ### Programação orientada a objetos
 
-- [Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf)
-- [Linguagem C](https://github.com/GuilhermePortella/Mastering_C_Language)
+ - [Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf)
+ - [Linguagem C](https://github.com/GuilhermePortella/Mastering_C_Language)
 
-## Ruby on Rails
+ ### Ruby on Rails
 
  - [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
  - [Rails Routing from the Outside In](https://guides.rubyonrails.org/routing.html)
 
-## Projetos em Arduino
+ ### Projetos em Arduino
  - [Robô Autônomo Básico](https://blog.arduinoomega.com/robo-autonomo-basico-com-sensor-ultrassonico-hc-sr04/)
 
 
