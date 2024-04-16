@@ -68,7 +68,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 ## O Minimo que voçê precisa saber
 
- - [GIT](https://github.com/GuilhermePortella/IntroducaoCienciasComputacao/blob/main/README.md#git)
+ - [GIT](https://github.com/GuilhermePortella/IntroducaoCienciasComputacao?tab=readme-ov-file#git)
  - Sistemas Operacionais
    - Linux - Windows e Mac
  - HTML, CSS e JavaScript
