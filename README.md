@@ -135,6 +135,7 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
  ### Programação orientada a objetos
 
+  - [POO](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP)
  - [Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf)
  - [Linguagem C](https://github.com/GuilhermePortella/Mastering_C_Language)
 
@@ -160,16 +161,18 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
  - [Prometheus Grafana](https://prometheus.io/docs/visualization/grafana/)
  - [Prometheus - application for event monitoring and alerting](https://prometheus.io/)
 
-## Linux (Iniciante ~ Avançado)
- - [Linux Mint](https://linuxmint.com/)
- - [Ubuntu](https://ubuntu.com/download)
- - [Manjaro](https://manjaro.org/download/)
- - [Debian](https://www.debian.org/download)
- - [Arch Linux](https://archlinux.org/download/)
- - [Slackware](https://download.liveslak.org/)
- - [Kali Linux](https://www.kali.org/docs/introduction/download-official-kali-linux-images/)
- - [Gentoo Linux](https://www.gentoo.org/downloads/)
- - [BlackArch Linux](https://blackarch.org/)
+## Sistemas Operacionais
+
+  ### Linux (Iniciante ~ Avançado)
+  - [Linux Mint](https://linuxmint.com/)
+  - [Ubuntu](https://ubuntu.com/download)
+  - [Manjaro](https://manjaro.org/download/)
+  - [Debian](https://www.debian.org/download)
+  - [Arch Linux](https://archlinux.org/download/)
+  - [Slackware](https://download.liveslak.org/)
+  - [Kali Linux](https://www.kali.org/docs/introduction/download-official-kali-linux-images/)
+  - [Gentoo Linux](https://www.gentoo.org/downloads/)
+  - [BlackArch Linux](https://blackarch.org/)
 
 ## GIT
  - [Git Stash](https://medium.com/wooza/git-stash-conhecendo-e-utilizando-um-dos-comandos-mais-pr%C3%A1ticos-para-o-versionamento-de-seu-c%C3%B3digo-a4dab3ac70da)
