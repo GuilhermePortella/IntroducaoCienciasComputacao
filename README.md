@@ -68,12 +68,12 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 
 ## O Minimo que voçê precisa saber
 
- - [GIT](https://github.com/GuilhermePortella/IntroducaoCienciasComputacao?tab=readme-ov-file#git)
- - Sistemas Operacionais
-   - Linux - Windows e Mac
- - HTML, CSS e JavaScript
- - Algoritmos Basicos
- - [POO](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP)
+  - [GIT](https://github.com/GuilhermePortella/IntroducaoCienciasComputacao?tab=readme-ov-file#git)
+  - Sistemas Operacionais
+    - Linux - Windows e Mac
+  - HTML, CSS e JavaScript
+  - Algoritmos Basicos
+  - [POO](https://github.com/GuilhermePortella/IntroducaoCienciasComputacao?tab=readme-ov-file#linguagens-de-programa%C3%A7%C3%A3o)
 
 ## Melhores livros para o Estudo de programação e Ciência da Computação
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
