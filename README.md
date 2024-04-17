@@ -50,6 +50,21 @@ Na década de 1960, a invenção doo armazenamento em disco magnético forneceu 
 
 Outro objetivo de longo prazo da pesquisa em ciência da computação é a criação de máquinas de computação e dispositivos robóticos que possam realizar tarefas que normalmente são consideradas como exigindo inteligência humana . Tais tarefas incluem mover, ver, ouvir, falar, entender a linguagem natural, pensar e até mesmo exibir emoções humanas . O campo da ciência da computação de sistemas inteligentes, originalmente conhecido comointeligência artificial (IA), na verdade antecede os primeiros computadores eletrônicos na década de 1940, embora o termo inteligência artificial não tenha sido cunhado até 1956.
 
+ ![](src/assets/waxVImv.png)
+
+# Sumário 
+
+- 
+-
+-
+-
+-
+-
+-
+
+ ![](src/assets/waxVImv.png)
+
+
 
 ## Curso gratuitos de Ciência da Computação
 
