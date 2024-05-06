@@ -124,8 +124,6 @@ Outro objetivo de longo prazo da pesquisa em ciência da computação é a cria�
 - [MBConf v1 - Introdução ao hardware hacking](https://www.youtube.com/watch?v=hoPWsOiHkvE&t=1176s&ab_channel=PapoBin%C3%A1rio)
   - [playlist MBConf](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5FbTIZFuExvqd5acv-VYBs)
 
-<br>
-
 ## Linguagens de programação 
 
  ### Programação orientada a objetos
