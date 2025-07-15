@@ -23,7 +23,7 @@ A ciência da computação surgiu como uma disciplina independente no início da
 
 <br>
 <p align="center">
-<img width="500" height="400" src="src\assets\Xerox_Alto_1973.jpg">
+<img src="src/assets/Xerox_Alto_1973.jpg" alt="Xerox Alto 1973" style="max-width: 100%; height: auto;">
 </p>
 
 Intimamente relacionado a este campo está o projeto e análise de sistemas que interagem diretamente com usuários que estão realizando diversas tarefas computacionais. Esses sistemas passaram a ser amplamente utilizados durante as décadas de 1980 e 1990, quando as interações editadas por linha com os usuários foram substituídas porinterfaces gráficas de usuário (GUIs). O design de GUI, que foi iniciado pela Xerox e mais tarde adotado pela Apple (Macintosh) e finalmente pela Microsoft ( Windows ), é importante porque constitui o que as pessoas veem e fazem quando interagem com um dispositivo de computação. O design de interfaces de usuário apropriadas para todos os tipos de usuários evoluiu para o campo da ciência da computação conhecido como interação humano-computador (HCI).
@@ -47,6 +47,10 @@ Na década de 1960, a invenção doo armazenamento em disco magnético forneceu 
 <br>
 
 Outro objetivo de longo prazo da pesquisa em ciência da computação é a criação de máquinas de computação e dispositivos robóticos que possam realizar tarefas que normalmente são consideradas como exigindo inteligência humana . Tais tarefas incluem mover, ver, ouvir, falar, entender a linguagem natural, pensar e até mesmo exibir emoções humanas . O campo da ciência da computação de sistemas inteligentes, originalmente conhecido comointeligência artificial (IA), na verdade antecede os primeiros computadores eletrônicos na década de 1940, embora o termo inteligência artificial não tenha sido cunhado até 1956.
+
+<br>
+
+Três desenvolvimentos na computação no início do século XXI: computação móvel,Computação cliente-servidor e hacking de computadores — contribuíram para o surgimento de três novos campos na ciência da computação: desenvolvimento baseado em plataforma, computação paralela e distribuída e segurança e garantia da informação . O desenvolvimento baseado em plataforma é o estudo das necessidades especiais de dispositivos móveis, seus sistemas operacionais e seus aplicativos. A computação paralela e distribuída diz respeito ao desenvolvimento de arquiteturas e linguagens de programação que suportam o desenvolvimento de algoritmos cujos componentes podem ser executados simultaneamente e de forma assíncrona (em vez de sequencialmente), a fim de fazer melhor uso do tempo e do espaço. A segurança e a garantia da informação lidam com o design de sistemas de computação e software que protegem a integridade e a segurança dos dados, bem como a privacidade dos indivíduos que são caracterizados por esses dados.
 
  ![](src/assets/waxVImv.png)
 
