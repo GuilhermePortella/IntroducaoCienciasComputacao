@@ -91,6 +91,14 @@ Três desenvolvimentos na computação no início do século XXI: computação m
   - HTML, CSS e JavaScript
   - Algoritmos Basicos
   - [POO](https://github.com/GuilhermePortella/IntroducaoCienciasComputacao?tab=readme-ov-file#linguagens-de-programa%C3%A7%C3%A3o)
+  -  Cálculo
+  -  Álgebra
+  -  Álgebra linear
+  -  Matemática e Estatística
+  -  Teoria dos Grafos
+  -  Matemática estocástica
+  -  Fisica
+  -  Cálculo tensorial
 
 ## Melhores livros para o Estudo de programação e Ciência da Computação
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
