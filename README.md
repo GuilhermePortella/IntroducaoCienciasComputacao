@@ -157,7 +157,7 @@ Três desenvolvimentos na computação no início do século XXI: computação m
  - [Esqueça Metodologias "Ágeis" | [Rated R] por Fabio Akita do canal @FabioAkita no youtube](https://www.youtube.com/watch?v=xjjX3R2WuoM&t=1921s&ab_channel=FabioAkita)
 
 ## System 360 IBM
- - [System 360 da IBM](https://www.ibm.com/ibm/history/ibm100/us/en/icons/system360/)
+ - [System 360 da IBM](https://museucapixaba.com.br/hoje/computador-ibm-system-360-de-1964/)
 
 
 ## Ferramentas Interessantes
@@ -201,3 +201,8 @@ Três desenvolvimentos na computação no início do século XXI: computação m
 ## Artigos 
 
 - [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
+- [The ‘Obfuscated C Code’ Competition Returns](https://thenewstack.io/the-obfuscated-c-code-competition-returns/)
+- [Entendendo algoritmo RSA](https://hackingnaweb.com/criptografia/entendendo-algoritmo-rsa-de-verdade/)
+- [Hash: o que são e como funcionam](https://www.kaspersky.com.br/blog/hash-o-que-sao-e-como-funcionam/2773/)
+- [Como comprar/vender BTC no P2P com privacidade usando a BISQ](https://btcdoomguy.substack.com/p/como-comprarvender-btc-no-p2p-com-c7b?fbclid=PAY2xjawGeU89leHRuA2FlbQIxMQABpgEzX1DIsc3r9YsNdQnAGvLC0FuxPLoFVRO8Pe1GDgPaEF5smccGzNKY8A_aem_T2GGcxZIi20fb2WNiJJesQ)
+- [Spectre](https://meiobit.com/398392/google-spectre-resiste-updates-software/)
