@@ -206,3 +206,119 @@ Três desenvolvimentos na computação no início do século XXI: computação m
 - [Hash: o que são e como funcionam](https://www.kaspersky.com.br/blog/hash-o-que-sao-e-como-funcionam/2773/)
 - [Como comprar/vender BTC no P2P com privacidade usando a BISQ](https://btcdoomguy.substack.com/p/como-comprarvender-btc-no-p2p-com-c7b?fbclid=PAY2xjawGeU89leHRuA2FlbQIxMQABpgEzX1DIsc3r9YsNdQnAGvLC0FuxPLoFVRO8Pe1GDgPaEF5smccGzNKY8A_aem_T2GGcxZIi20fb2WNiJJesQ)
 - [Spectre](https://meiobit.com/398392/google-spectre-resiste-updates-software/)
+
+
+## Engenharia de Software
+
+| Categoria | Item | Descrição resumida |
+|-----------|------|--------------------|
+| **Alta Disponibilidade & Resiliência** | Balanceamento de carga | Distribuição de requisições entre múltiplos servidores. |
+| | Sistema de alta disponibilidade | Arquiteturas que evitam indisponibilidade. |
+| | Tolerância a falhas | Capacidade de continuar operando após falhas. |
+| | Tolerância a falhas em Hardware | Redundância de componentes físicos. |
+| | Tolerância a falhas em Software | Mecanismos de fallback e recuperação. |
+| | Degradação graciosa | Manter funções básicas em caso de falha parcial. |
+| | Cluster | Conjunto de máquinas atuando como um único sistema. |
+| | Uptime | Tempo de atividade contínua de um sistema. |
+| | Hot swapping | Troca de componentes sem desligar o sistema. |
+| | Redundância modular tripla | Uso de três sistemas para tolerar falha de um. |
+| | Alimentação ininterrupta (UPS) | Fonte alternativa de energia. |
+| | Torre de servidores | Infraestrutura física de servidores. |
+| | Replicação de dados | Cópia redundante de informações. |
+| | Mirror (computação) | Espelhamento de discos ou sistemas. |
+| | Cópia instantânea de volume | Snapshots para recuperação rápida. |
+| | DNS Round-robin | Balanceamento simples via DNS. |
+| | Multiple Spanning Tree Protocol | Resiliência em redes. |
+| | Spanning Tree Protocol | Evita loops em redes Ethernet. |
+| | Processamento de transação | Garante consistência em sistemas críticos. |
+| | Consenso distribuído | Algoritmos de coordenação (Paxos, Raft, Zab). |
+| | Autoestabilização | Capacidade de recuperação sem intervenção. |
+| | Sistema com paragem segura | Interrupção segura em falhas críticas. |
+| | Sistema de falha segura | Projetado para falhar de forma não catastrófica. |
+| | Sistema com avaria silenciosa | Erros não perceptíveis que comprometem confiabilidade. |
+| | Ponto de verificação de aplicativo | Checkpoints para retomar operações. |
+| | Ponto único de falha | Elemento crítico cuja falha afeta todo o sistema. |
+| | Recuperação de desastres | Estratégias para restaurar serviços após incidentes. |
+| | Chaos Engineering | Testes intencionais de falhas em produção. |
+| | Site Reliability Engineering (SRE) | Disciplina de confiabilidade operacional (Google). |
+| | Arquitetura antifrágil | Sistemas que se fortalecem sob falhas. |
+| | Eventual Consistency | Modelo de consistência em sistemas distribuídos. |
+| | CAP Theorem | Trade-off entre consistência, disponibilidade e tolerância à partição. |
+| **Falhas e Erros Computacionais** | Falha (tecnologia) | Interrupção inesperada de funcionamento. |
+| | Bug F00F do Pentium | Erro de CPU que travava o processador. |
+| | Travamento | Estado em que o sistema não responde. |
+| | Defeito de ponto flutuante | Erro em cálculos de precisão. |
+| | Estouro de pilha | Overflow causado por excesso de chamadas recursivas. |
+| | Divisão por zero | Operação inválida em aritmética. |
+| | Problema do ano 2000 | Bug relacionado à representação de datas. |
+| | Problema do ano 2038 | Overflow de datas em sistemas 32 bits. |
+| | Falha de segmentação | Acesso inválido à memória. |
+| | Heap overflow | Estouro de memória dinâmica. |
+| | Kernel panic | Falha crítica do sistema operacional. |
+| | Tela azul da morte | Erro fatal do Windows. |
+| | Tela vermelha da morte | Erro crítico exibido em algumas plataformas. |
+| | Glitch Art | Uso estético de erros em mídia digital. |
+| | MissingNo. | Bug famoso no jogo Pokémon. |
+| | Problema do clique | Fenômeno de falhas de disco rígido. |
+| | Race Condition | Erros por concorrência em sistemas paralelos. |
+| | Deadlock | Estado em que processos esperam indefinidamente. |
+| | Livelock | Processos ativos mas sem progresso. |
+| | Bit rot | Degradação de dados em mídias físicas. |
+| | Heisenbug | Bug que desaparece ao ser depurado. |
+| | Bohrbug | Bug estável e previsível. |
+| | Mandelbug | Bug caótico e imprevisível. |
+| **Vulnerabilidades & Segurança** | Heartbleed | Vulnerabilidade no OpenSSL. |
+| | HTTP 403 | Acesso proibido. |
+| | HTTP 404 | Recurso não encontrado. |
+| | Criptografia baseada em Hash | Segurança via funções hash. |
+| | OCSP (Online Certificate Status Protocol) | Verificação de certificados em tempo real. |
+| | ICAP (Internet Content Adaptation Protocol) | Filtragem e modificação de conteúdo HTTP. |
+| | Engenharia de segurança | Planejamento de segurança em sistemas. |
+| | Ataques side-channel | Exploram vazamentos físicos (energia, tempo). |
+| | Homomorphic Encryption | Criptografia que permite cálculos sobre dados cifrados. |
+| | Zero-Knowledge Proofs | Autenticação sem revelar informação. |
+| | Secure Enclave / TPM | Hardware seguro para criptografia. |
+| | Supply Chain Attack | Comprometimento de bibliotecas ou dependências. |
+| | Engenharia social | Ataques baseados em manipulação humana. |
+| | Segurança em IoT | Fragilidades de dispositivos conectados. |
+| **Códigos de Detecção e Correção de Erros** | Detecção e correção de erros | Técnicas para garantir integridade de dados. |
+| | Código alternante | Forma simples de detecção. |
+| | Código binário de Golay | Código corretor de erros. |
+| | Código de correção de erro | Família de métodos para correção. |
+| | Código Reed–Solomon | Usado em CDs, DVDs, QR Codes. |
+| | Go-Back-N ARQ | Protocolo de retransmissão. |
+| | Longitudinal Redundancy Check | Detecção de erros em blocos. |
+| | Paridade (telecomunicações) | Bit de verificação simples. |
+| | Procedimento de Chien | Algoritmo de correção de códigos Reed-Solomon. |
+| | Soma de verificação | Método de validação de integridade. |
+| | Hamming Code | Correção de erro em transmissões digitais. |
+| | LDPC Codes | Códigos modernos de alta eficiência. |
+| | Turbo Codes | Usados em comunicações de satélite e 4G. |
+| **Protocolos de Rede** | Protocolos da Internet | Conjunto de padrões fundamentais. |
+| | Password authentication protocol (PAP) | Autenticação simples em redes. |
+| | Path MTU Discovery | Descobre o tamanho máximo de pacote. |
+| | Pfsync | Sincronização de estados de firewall. |
+| | Pichat | Protocolo experimental de chat. |
+| | Picture Transfer Protocol (PTP) | Transferência de imagens digitais. |
+| | Porta (redes de computadores) | Identificação de serviços em TCP/UDP. |
+| | Power Over Ethernet (PoE) | Alimentação elétrica via cabo de rede. |
+| | Precision Time Protocol (PTP) | Sincronização de relógios em rede. |
+| | Protocolo binário SiRF | Comunicação GPS. |
+| | Protocolo de mapeamento de portas NAT | Tradução de endereços e portas. |
+| | Protocolo de recuperação de informações privadas | Segurança e privacidade em redes. |
+| | Protocolo sem estado | Protocolos que não guardam contexto. |
+| | Protocolo Stellar | Voltado para pagamentos distribuídos. |
+| | QUIC | Protocolo da Google para reduzir latência. |
+| | gRPC | RPC eficiente sobre HTTP/2. |
+| | BGP | Roteamento entre sistemas autônomos. |
+| | OSPF | Roteamento interno em redes grandes. |
+| | VXLAN | Rede virtual sobrepostas em datacenters. |
+| | MQTT | Protocolo leve para IoT. |
+| **Incidentes Históricos** | Incidente do alarme de mísseis falso (1983) | Erro de detecção que quase gerou conflito nuclear. |
+| | Stuxnet (2010) | Malware direcionado a sistemas industriais. |
+| | Blackout da AWS (2017) | Interrupção global causada por erro humano. |
+| | NotPetya (2017) | Ransomware destrutivo. |
+| | Cloudflare Global Outage (2020) | Falha em sistema de roteamento. |
+| | Colonial Pipeline Attack (2021) | Ataque de ransomware afetando infraestrutura crítica. |
+
+
